@@ -1,18 +1,87 @@
 .jumbotron {
+     margin-bottom: 0px;
+    /* opacity: 0.2;    */
+    /* /* color: #fff; */
+    /* background: #000  */ 
+    /* url("/assets/img/burger1.jpeg"); */
     background-image: url("/assets/img/burger1.jpeg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size:  725px 600px;
-    /* background-size: cover; */
-    margin-top: 20px;
+    /* background-size: 725x 600px; */
+    margin-top: 10px;
 }
 
 
-body {
-	background-color: #ebcf61;
-	margin-top: 20px;
+#heading {
+    text-align: center;
+    font-display: bold;
+    display: block;
+    font-size: 40px; 
+    font-family: 'Eater', cursive;
+    /* color: #fff; */
 }
 
-#uneaten-burger {
-    background-color: aqua;
+#header1 {
+    text-align: center;
+    font-display: bold;
+    display: block;
+    font-size: 30px; 
+    font-family: 'Eater', cursive;
+    /* color: #fff; */
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+#burger-app {
+    background-color: rgba(245, 241, 2, 0.979);
+}
+
+#add {
+    text-align: center;
+}
+
+
+p {
+    font-display: bold;
+    font-size: 22px; 
+    font-family: 'Eater', cursive;  
+}
+
+#uneaten-burger {  
+    background-color: #ececece1; 
+    color:  rgb(136, 134, 134);  
+    border-color: rgb(114, 113, 113);  
+    font-size: 14px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 17px;
+    }
+    
+#uneaten-burger:hover {background-color: #eeeae8;}
+    
+#uneaten-burger:active {
+    background-color:#f8f5f5;
+    box-shadow: 0 5px #dacfcf;
+    transform: translateY(4px);
+}
+
+#eat-it {
+    text-align: center;
+    font-display: bold;
+    font-size: 18px; 
+    font-family: 'Eater', cursive;
+    background-color: rgb(245, 153, 99)  
+}
+
+#eat-it:hover {background-color: #d69473;}
+
+#uneaten-burger:active {
+    background-color:rgb(245, 153, 99);
+    box-shadow: 0 5px #b37777f1;
+    transform: translateY(4px);
+}
+
+#devoured {
+    float: right;
 }
