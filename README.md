@@ -9,7 +9,7 @@
 
 ---
 
-Try out the Application here *(https://friend-finder-app55.herokuapp.com/)*!
+Try out the Application here *https://eat-da-burger50.herokuapp.com/*!
 
 
 **Functionality**
