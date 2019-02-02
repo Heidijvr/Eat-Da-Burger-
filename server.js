@@ -1,5 +1,5 @@
 var express = require("express");
-var bodyParser = require("body-Parser");
+var bodyParser = require("body-parser");
 var exphbs = require("express-handlebars");
 var methodOverride = require("method-override");
 // var orm = require("./config/orm.js");
