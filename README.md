@@ -5,6 +5,7 @@
 *Eat-Da-Burger!* is a restaurant app that lets users input the names of burgers they'd like to eat. Once the user submits a burger's name, the app displays the name of the burger on the left side of the page, in a 'waiting' area. Each burger in the waiting area has a *Devour it!* button. When the user clicks on it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not. 
 
 **Try out the Application here(https://friend-finder-app55.herokuapp.com/)!**
+
 ---
 <img src="https://github.com/Heidijvr/Eat-Da-Burger-/blob/master/public/assets/img/EatDaBurger.png" alt Burger App Home Page>
 
@@ -23,5 +24,6 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 **Technology Used**
 
 This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create the burger logger. It follows the MVC design pattern and Node to Query the route data for the app. Handlebars was used to generate the HTML.
+
 ---
 This is an assignment is in fulfillment of the requirements for the bootcamp of the University of Washington (September 2018 - April 2019)
