@@ -4,13 +4,11 @@
 
 *Eat-Da-Burger!* is a restaurant app that lets users input the names of burgers they'd like to eat. Once the user submits a burger's name, the app displays the name of the burger on the left side of the page, in a 'waiting' area. Each burger in the waiting area has a *Devour it!* button. When the user clicks on it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not. 
 
-**Try out the Application here(https://friend-finder-app55.herokuapp.com/)!**
-
 ---
 <img src="https://github.com/Heidijvr/Eat-Da-Burger-/blob/master/public/assets/img/EatDaBurger.png" alt Burger App Home Page>
+---
 
-
-**Try out the Application here(https://friend-finder-app55.herokuapp.com/)!**
+Try out the Application here *(https://friend-finder-app55.herokuapp.com/)*!
 
 
 **Functionality**
