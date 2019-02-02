@@ -10,6 +10,10 @@ Burger will be added to the "Burgers Available to Eat" section of the page.
 Select a burger you would like to Devour from the "Burgers Available to Eat List".
 Burger will be moved to the "Burgers That Have Been Devoured" section of the page.
 
+### Try out the Application!
+
+https://friend-finder-app55.herokuapp.com/
+
 
 
 How The App Should Work
