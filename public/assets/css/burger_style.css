@@ -1,53 +1,55 @@
-.jumbotron {
-     margin-bottom: 0px;
-    /* opacity: 0.2;    */
-    /* /* color: #fff; */
-    /* background: #000  */ 
-    /* url("/assets/img/burger1.jpeg"); */
-    background-image: url("/assets/img/burger1.jpeg");
-    background-repeat: no-repeat;
+#header {
+     /* margin-bottom: 0px; */
+    /* opacity: 0.2; 
+    color: #fff; 
+    background: #000  
+    url("/assets/img/burger1.jpeg");  */
+    /* background-image: url("/assets/img/burgert.jpeg"); */
+    /* background-repeat: no-repeat;
     background-position: center;
-    /* background-size: 725x 600px; */
-    margin-top: 10px;
-}
+    background-size: cover; */
+    /* width: 550px;
+    margin-top: 10px; */
+    height: 315px;
+    text-align: center;
+    /* font-size: 60px;  */
+ }
 
 
-#heading {
+#heading1 {
     text-align: center;
     font-display: bold;
     display: block;
-    font-size: 40px; 
+    font-size: 50px;
     font-family: 'Eater', cursive;
-    /* color: #fff; */
+    margin-top: 45px;
+    margin-bottom: 15px;
+
 }
 
-#header1 {
-    text-align: center;
+
+p {
     font-display: bold;
-    display: block;
-    font-size: 30px; 
-    font-family: 'Eater', cursive;
-    /* color: #fff; */
-    margin: auto 0;
-    margin-left: 20%;
-    margin-bottom: 3%;
-    margin-top: 2%;
+    font-size: 26px; 
+    font-family: 'Eater', cursive; 
 }
 
 #burger-app {
     background-color: rgba(245, 241, 2, 0.979);
 }
 
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
 #add {
-    text-align: center;
-}
 
+    margin-left: 25%;
+} 
 
-p {
-    font-display: bold;
-    font-size: 22px; 
-    font-family: 'Eater', cursive;  
-}
 
 #uneaten-burger {  
     background-color: #ececece1; 
@@ -56,6 +58,7 @@ p {
     font-size: 14px;
     border-radius: 5px 5px 5px 5px;
     padding: 17px;
+    margin-left: 100px;
     }
     
 #uneaten-burger:hover {background-color: #eeeae8;}
@@ -82,6 +85,57 @@ p {
     transform: translateY(4px);
 }
 
-#devoured {
-    float: right;
+.container {
+    text-align: center;
 }
+
+
+
+
+
+/* body {
+    font-family: 'Germania One', cursive;
+    width: 100%;
+    background-image: url("/assets/img/flying.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+#available {
+    text-align: center;
+    margin-right: 6%;
+    margin-left: 10%;
+
+
+}
+
+#devoured {
+    /* float: left; */
+    /* text-align: right;
+
+} */
+
+
+/* #devoured {
+    float: right;
+} */
+
+
+
+
+
+
+
+
+
+
+
