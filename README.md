@@ -1,31 +1,26 @@
-## Eat-Da-Burger-
+# Eat-Da-Burger-
 
-# How The App Works
+## How The App Works
 
-**Eat-Da-Burger!** is a restaurant app that lets users input the names of burgers they'd like to eat. Once the user submits a burger's name, the app displays the name of the burger on the left side of the page, in a 'waiting' area. Each burger in the waiting area has a **Devour it!** button. When the user clicks on it, the burger will move to the right side of the page. THE app will store every burger in a database, whether devoured or not.
+**Eat-Da-Burger!** is a restaurant app that lets users input the names of burgers they'd like to eat. Once the user submits a burger's name, the app displays the name of the burger on the left side of the page, in a 'waiting' area. Each burger in the waiting area has a **Devour it!** button. When the user clicks on it, the burger will move to the right side of the page. The app will store every burger in a database, whether devoured or not. 
+**Try out the Application here(https://friend-finder-app55.herokuapp.com/)!**
 
+https://github.com/Heidijvr/Eat-Da-Burger-/blob/master/public/assets/img/EatDaBurger.png
 
-
-## Used
+# Used
 
 This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create a burger logger. It follows the MVC design pattern and Node to Query the route data for the app. Handlebars was used to generate the HTML.
 
-## Instructions
+# Instructions
 Type a burger name into the app and add it.
 Burger will be added to the "Burgers Available to Eat" section of the page.
 Select a burger you would like to Devour from the "Burgers Available to Eat List".
 Burger will be moved to the "Burgers That Have Been Devoured" section of the page.
 
-### Try out the Application!
-
-https://friend-finder-app55.herokuapp.com/
+## Try out the Application here(https://friend-finder-app55.herokuapp.com/)!
 
 
-
-
-
-
-## Functionality
+# Functionality
 Using an home-grown ORM, the app has 3 basic CRUD functions...
 
 - READ all entries from the MySQL database and display them to the DOM using Handlebars.
