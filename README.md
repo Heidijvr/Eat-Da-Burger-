@@ -29,4 +29,4 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create the burger logger. It follows the MVC design pattern and Node to Query the route data for the app. Handlebars was used to generate the HTML.
 
 ---
-This is an assignment is in fulfillment of the requirements for the bootcamp of the University of Washington (September 2018 - April 2019)
+This assignment is in fulfillment of the requirements for the bootcamp of the University of Washington (September 2018 - April 2019)
